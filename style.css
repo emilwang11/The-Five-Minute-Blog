@@ -1,0 +1,59 @@
+
+* {
+  margin-left: 5%;
+  font-family: "Avenir Next" !important;
+  font-weight: lighter;
+}
+th{
+  font-weight}: bold;
+}
+#title {
+  color: red;
+}
+.make-red {
+  color:red;
+}
+
+.submission-style{
+
+  border: 1px solid #979797;
+  border-radius: 8px;
+  padding: 10px 10px 10px 10px;
+  display: auto;
+  width: 40%;
+  height: 250px;
+  position: absolute;
+}
+.text-area-style-1{
+  background: #f4f4f4;
+  border: unset;
+  height: 60%;
+  width: 90%;
+
+}
+.text-area-style-2{
+  background: #def7f8;
+  border: unset;
+  height: 60%;
+  width: 90%;
+
+}
+.block-color-1{
+  background: #d0f0f1;
+}
+.block-color-2{
+  background: white;
+}
+.margins-1{
+  margin-left: 10%;
+  margin-top: 100px;
+
+}
+.margins-2{
+  margin-left: 40%;
+  margin-top: 20%;
+}
+.margins-3{
+  margin-left: 10%;
+  margin-top: 30%;
+}
